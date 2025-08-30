@@ -23,3 +23,4 @@ git clone https://github.com/username/path-scanner.git
 cd path-scanner
 python scan.py
 ```
+![Path scanner](ss.png)
