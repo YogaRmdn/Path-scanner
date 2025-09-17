@@ -1,4 +1,6 @@
 # 🔍 Path Scanner
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]
 
 Path Scanner adalah tools sederhana berbasis Python yang digunakan untuk melakukan **brute-force directory & file scanning** pada target website.  
 Tools ini cocok untuk kebutuhan **pentesting** maupun **bug hunting**, dengan dukungan **User-Agent randomizer** agar lebih natural saat scanning.
